@@ -2,7 +2,7 @@ import React from 'react'
 import Head from 'next/head'
 
 import Logo from '../assets/1.svg'
-import { Container, LogoBox } from '../styles/pages/Home'
+import { Container, LogoBox } from '~/styles/pages/Home'
 
 const Home: React.FC = () => {
   return (
