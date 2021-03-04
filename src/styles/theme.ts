@@ -1,9 +1,13 @@
 const theme = {
   colors: {
-    background: '#1c3f7b',
+    background: '#ffffff',
     text: '#e1e1e6',
-    primary: '#06c'
-  }
+    primary: '#f72d2d',
+    menu: {
+      link: '#ffffff'
+    }
+  },
+  spaces: '1.5rem'
 }
 
 export default theme
